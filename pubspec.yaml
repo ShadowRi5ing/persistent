@@ -1,6 +1,8 @@
 name: persistent
-version: 1.0.0
-author: Paul Brauner <polux@google.com>
+version: 1.0.1
+author:
+  Paul Brauner <polux@google.com>
+  Giovanni Panaro <tsrwebgl@gmail.com>
 description: >
   Efficient persistent data structures for Dart.
   "Persistent" means immutable here, not "saved on disk".
