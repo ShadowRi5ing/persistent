@@ -6,10 +6,7 @@ description: >
   "Persistent" means immutable here, not "saved on disk".
 homepage: https://github.com/polux/persistent
 environment:
-  sdk: '>=0.8.10+6 <2.0.0'
+  sdk: '>=2.0.0 <3.0.0'
 dev_dependencies:
-  args: '>=0.9.0 <0.13.0'
-  enumerators: '>=0.6.0 <0.7.0'
-  http: '>=0.9.0 <0.12.0'
-  propcheck: '>=0.6.0 <0.7.0'
-  unittest: '>=0.9.0 <0.12.0'
+  args: any
+  http: any
