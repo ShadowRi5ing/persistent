@@ -6,7 +6,9 @@ author:
 description: >
   Efficient persistent data structures for Dart.
   "Persistent" means immutable here, not "saved on disk".
-homepage: https://github.com/polux/persistent
+homepage:
+  https://github.com/polux/persistent (original)
+  https://github.com/ShadowRi5ing/persistent (Dart 2)
 environment:
   sdk: '>=2.0.0 <3.0.0'
 dev_dependencies:
